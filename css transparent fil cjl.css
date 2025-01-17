@@ -1,0 +1,31 @@
+/* Changer le fond de la table en blanc avec une légère transparence */
+.awesome-table-class {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px; /* Arrondir les coins */
+    padding: 20px; /* Ajouter de l'espace autour du contenu */
+}
+
+/* Styliser les titres */
+.awesome-table-class h1, h2, h3 {
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+}
+
+/* Ajouter de l'ombre au cadre pour le rendre plus visible */
+.awesome-table-class {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Modifier la taille et la couleur des icônes */
+.awesome-table-class .icon {
+    font-size: 24px;
+    color: #2E8B57;
+}
+
+/* Ajuster les éléments d'une diapositive de type Slideshow */
+.awesome-table-slideshow {
+    text-align: center;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.5);
+}
